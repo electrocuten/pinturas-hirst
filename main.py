@@ -1,4 +1,4 @@
-# Este módulo permite extraer colores de una imagen dada
+s# Este módulo permite extraer colores de una imagen dada
 import turtle
 import colorgram,random
 from turtle import Turtle,Screen
